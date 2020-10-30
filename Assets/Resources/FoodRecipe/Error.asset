@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6ef83569da36f4299ed9c58954e4fd, type: 3}
+  m_Name: Error
+  m_EditorClassIdentifier: 
+  makingType: 0
+  makingFoodObjByAmount:
+  - {fileID: 1699686535382906, guid: 51006e17af455bc44bc1733102dd46ac, type: 2}
+  requestTypes: 
